@@ -1,6 +1,6 @@
 # mini-redux
 
-This is redux code about handwritten.I made a simple implementation of it.The significance lies in the understanding of methods and the use of redux.
+This is redux code about handwritten.I made a simple implementation of it.The significance lies in the understanding of Redux API and the use of redux.
 It includes the realization of createStore.
 
 
